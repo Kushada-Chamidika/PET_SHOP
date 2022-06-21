@@ -1,0 +1,227 @@
+.show{
+    color: yellow;
+    font-family: "IcoFont";
+    cursor: pointer;
+    margin-left: 355px;
+    margin-top:-20px;
+    position: absolute;
+}
+.ani{
+    color: lightseagreen;
+}
+.body{
+    background-image: url("pt3.jpg");
+    background-size: 1365px;
+    background-attachment: fixed;
+}
+.head{
+    font-size: 50px;
+    color:#333333;
+    margin-top: 100px;
+}
+.div1{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 350px;
+    height: 300px;
+}
+.span{
+    font-size: 25px;
+    color:#333333;
+    margin-left: 0px;
+    margin-top: 40px;
+    position: absolute;
+}
+.inp{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    text-indent: 10px;
+    margin-left: 150px;
+    margin-top: 40px;
+
+}
+.btn{
+    border: none;
+    outline: none;
+    width: 200px;
+    height: 40px;
+    margin-left: 70px;
+    border-radius: 20px;
+    background-color: #0033ff;
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit7{
+    margin-left: 770px;
+}
+.tit9{
+    margin-left:840px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.prodiv{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: aqua;
+    margin-left: 880px;
+    margin-top: 7px;
+    border: solid;
+    border-color: black;
+
+}
+.proimg{
+    width:100%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.username{
+    font-size: 18px;
+    color: blue;
+    margin-left: 950px;
+    margin-top: 25px;
+    position: absolute;
+}
+.tit5{
+    margin-left: 640px;
+}
+.span1{
+    color: white;
+}
+.tit15{
+    margin-left: 540px;;
+    cursor: pointer;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+}
+.titp{
+    margin-left: 460px;
+}
+
+.detaildiv{
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+    border-bottom: solid;
+    border-bottom-color:  #330033;
+    border-top: solid;
+    border-top-color: #330033;
+}
+.imgdiv{
+    width: 250px;
+    height: 250px;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.imdd{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+
+}
+.deta{
+    margin-left: 300px;
+    margin-top: 20px;
+    position: absolute;
+}
+.detai{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: 20px
+}
+.sl{
+    margin-left: 590px;
+    margin-top: -200px;   
+}
+.sl1{
+    margin-left: 720px;
+}
+.bedi{
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -160px;
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    background-color: #cccccc;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+.bedi:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+.bgs{
+    background-color: red;
+}
+.bgs:hover{
+    color: black;
+    background-color: crimson;
+}
+.s14{
+    margin-left: 880px;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+.titjj{
+    margin-left: 780px;
+}
+.titpoi{
+    margin-left: 870px;
+}
+.titghj{
+    margin-left: 960px;
+}
+.titg{
+    margin-left: 398px;
+}

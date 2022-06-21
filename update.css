@@ -1,0 +1,496 @@
+.indivshow{
+    color: #ffff00;
+    font-family: "IcoFont";
+    cursor: pointer;
+}
+.anilkop{
+    color: lightseagreen;
+}
+.body{
+    background-image: url("pt5.webp");
+    background-attachment: fixed;
+    background-size: 1365px;
+}
+.head1{
+    color: white;
+    font-size: 50px;
+    font-family: cursive;
+    margin-top: 80px;
+}
+.div1lk{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 15px;
+    border-color:  lightgray;
+    border-style: solid;
+    width: 320px;
+    height: fit-content;
+}
+.spankl{
+    color: white;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.inplk{
+    border-radius: 10px;
+    border-color: #ffffff;
+    outline: none;
+    width: 150px;
+    text-indent: 10px;
+}
+.h3{
+    color: white;
+    margin-left: 10px;
+    font-family: cursive;
+}
+.bt1{
+    width: 200px;
+    height: 30px;
+    border: none;
+    outline: none;
+    margin-left: 60px;
+    background-color:  #003399;
+    color: white;
+    border-radius: 15px;
+}
+.bt1:hover{
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+.span1{
+    color: white;
+}
+
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.tit3{
+    margin-left: 500px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 760px;
+}
+.tit7{
+    margin-left: 920px;
+}
+
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+.show{
+    color: yellow;
+    font-family: "IcoFont";
+    cursor: pointer;
+    margin-left: 355px;
+    margin-top:-20px;
+    position: absolute;
+}
+.ani{
+    color: lightseagreen;
+}
+.body{
+    background-image: url("pt7.jpg");
+    background-size: 1365px;
+    background-attachment: fixed;
+}
+.head{
+    font-size: 50px;
+    color: #ffff00;
+    margin-top: 100px;
+}
+.div1{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 350px;
+    height: 300px;
+}
+.span{
+    font-size: 25px;
+    color:#333333;
+    margin-left: 0px;
+    margin-top: 40px;
+    position: absolute;
+}
+.inp{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    text-indent: 10px;
+    margin-left: 150px;
+    margin-top: 40px;
+
+}
+.btn{
+    border: none;
+    outline: none;
+    width: 200px;
+    height: 40px;
+    margin-left: 70px;
+    border-radius: 20px;
+    background-color: #0033ff;
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit7{
+    margin-left: 770px;
+}
+.tit9{
+    margin-left:850px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.prodiv{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: aqua;
+    margin-left: 880px;
+    margin-top: 7px;
+    border: solid;
+    border-color: black;
+
+}
+.proimg{
+    width:100%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.username{
+    font-size: 18px;
+    color: blue;
+    margin-left: 950px;
+    margin-top: 25px;
+    position: absolute;
+}
+.idjk{
+    margin-left: 80px;
+}
+.imgdiv{
+    width: 250px;
+    height: 250px;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.imdd{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    
+}
+.show{
+    color: yellow;
+    font-family: "IcoFont";
+    cursor: pointer;
+    margin-left: 355px;
+    margin-top:-20px;
+    position: absolute;
+}
+.ani{
+    color: lightseagreen;
+}
+.body{
+    background-image: url("pt1 c.jpg");
+    background-size: 1365px;
+    background-attachment: fixed;
+}
+.head{
+    font-size: 50px;
+    color:#333333;
+    margin-top: 100px;
+}
+.div1{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 350px;
+    height: 300px;
+}
+.span{
+    font-size: 25px;
+    color:#333333;
+    margin-left: 0px;
+    margin-top: 40px;
+    position: absolute;
+}
+.inp{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    text-indent: 10px;
+    margin-left: 150px;
+    margin-top: 40px;
+
+}
+.btn{
+    border: none;
+    outline: none;
+    width: 200px;
+    height: 40px;
+    margin-left: 70px;
+    border-radius: 20px;
+    background-color: #0033ff;
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit7{
+    margin-left: 770px;
+}
+.tit9{
+    margin-left:840px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.prodiv{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: aqua;
+    margin-left: 880px;
+    margin-top: 7px;
+    border: solid;
+    border-color: black;
+
+}
+.proimg{
+    width:100%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.username{
+    font-size: 18px;
+    color: blue;
+    margin-left: 950px;
+    margin-top: 25px;
+    position: absolute;
+}
+.tit5{
+    margin-left: 640px;
+}
+.span1{
+    color: white;
+}
+.tit15{
+    margin-left: 540px;;
+    cursor: pointer;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+}
+.titp{
+    margin-left: 460px;
+}
+.detaildiv{
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+    border-bottom: solid;
+    border-bottom-color:  #330033;
+    border-top: solid;
+    border-top-color: #330033;
+}
+.imgdiv{
+    width: 250px;
+    height: 250px;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.imdd{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    
+}
+.deta{
+    margin-left: 300px;
+    margin-top: 20px;
+    position: absolute;
+}
+.detai{
+    margin-left: 420px;
+    position: absolute;
+    margin-top: 20px
+}
+.sl{
+    margin-left: 590px;
+    margin-top: -200px;   
+}
+.sl1{
+    margin-left: 720px;
+}
+.btnlo{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #223f94;
+    color: white;
+    margin-left: 700px;
+    margin-top: -200px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btnlo:hover{
+    background-color: #003399;
+    color: lightslategray;
+}
+.titm{
+    margin-left: 380px;
+}
+
+.buy{
+    background-color: red;
+    font-size: 25px;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    margin-left: 700px;
+    margin-top: -140px;
+    cursor: pointer;
+    
+}
+.buy:hover{
+    background-color:#bf163c;
+    color: #330033;
+    
+}
+.animationl{
+    display: none;
+}
+.tita{
+    margin-left: 240px;
+}

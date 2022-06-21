@@ -1,0 +1,125 @@
+.indivshow{
+    color: #ffff00;
+    font-family: "IcoFont";
+    cursor: pointer;
+}
+.ani{
+    color: lightseagreen;
+}
+.body{
+    background-image: url("pt5.webp");
+    background-attachment: fixed;
+    background-size: 1365px;
+}
+.head1{
+    color: white;
+    font-size: 50px;
+    font-family: cursive;
+    margin-top: 80px;
+}
+.div1{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 15px;
+    border-color:  lightgray;
+    border-style: solid;
+    width: 320px;
+    height: fit-content;
+}
+.span{
+    color: white;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.inp{
+    border-radius: 10px;
+    border-color: #ffffff;
+    outline: none;
+    width: 150px;
+    text-indent: 10px;
+}
+.h3{
+    color: white;
+    margin-left: 10px;
+    font-family: cursive;
+}
+.bt1{
+    width: 200px;
+    height: 30px;
+    border: none;
+    outline: none;
+    margin-left: 60px;
+    background-color:  #003399;
+    color: white;
+    border-radius: 15px;
+}
+.bt1:hover{
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+.span1{
+    color: white;
+}
+
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.tit3{
+    margin-left: 500px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 760px;
+}
+.tit7{
+    margin-left: 920px;
+}
+
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+.titfg{
+    margin-left: 820px;
+}

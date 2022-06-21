@@ -1,0 +1,176 @@
+.div1{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    margin-top: 10px;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+}
+.tit1{
+    color: white;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.anitit1{
+    color: green;
+}
+.tit3{
+    margin-left: 500px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 760px;
+}
+.tit7{
+    margin-left: 870px;
+}
+.tit8{
+    margin-left: 950px;
+}
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.sp2{
+    color: red;
+    position: absolute;
+    margin-top: 800px;
+    margin-left: -100px;
+}
+.ghj{
+    background-image: url("pt2.jpg");
+    background-size: 1340px;
+    background-attachment: fixed;
+}
+.rty{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 240px;
+}
+.er{
+    font-size: 30px;
+    margin-top: 310px;
+    margin-left:220px;
+}
+.r{
+    position: absolute;
+    color: white;
+    font-size: 80px;
+    margin-top: 150px;
+    margin-left: 360px;
+}
+.tyu{
+    width: 350px;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 400px;
+}
+.qwa{
+    color: white;
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 400px;
+}
+.f1{
+    margin-top: 430px;
+}
+.f2{
+    margin-top: 460px;
+}
+.f3{
+    margin-top: 490px;
+}
+.f4{
+    margin-top:520px;
+}
+.dfg{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    margin-left: 550px;
+    margin-top: 550px;
+}
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.tit3{
+    margin-left: 900px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 1000px;
+}
+.tit7{
+    margin-left: 920px;
+}
+
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}

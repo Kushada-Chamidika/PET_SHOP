@@ -1,0 +1,100 @@
+.show{
+    color: yellow;
+    font-family: "IcoFont";
+    cursor: pointer;
+    margin-left: 355px;
+    margin-top:-20px;
+    position: absolute;
+}
+.ani{
+    color: lightseagreen;
+}
+.body{
+    background-image: url("pt12.jpg");
+    background-size: 1365px;
+    background-attachment: fixed;
+}
+.head{
+    font-size: 50px;
+    color:#333333;
+    margin-top: 100px;
+}
+.div1{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 350px;
+    height: 300px;
+}
+.span{
+    font-size: 25px;
+    color:#333333;
+    margin-left: 0px;
+    margin-top: 40px;
+    position: absolute;
+}
+.inp{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    text-indent: 10px;
+    margin-left: 150px;
+    margin-top: 40px;
+    
+}
+.btn{
+    border: none;
+    outline: none;
+    width: 200px;
+    height: 40px;
+    margin-left: 70px;
+    border-radius: 20px;
+    background-color: #0033ff;
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit7{
+    margin-left: 920px;
+}
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}

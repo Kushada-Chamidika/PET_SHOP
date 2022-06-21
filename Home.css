@@ -1,0 +1,278 @@
+.divup{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color:activeborder;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.img1{
+    width: 60px;
+    padding-left: 10px;
+    position: absolute;
+}
+.tit1{
+    color:blue;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.tit7{
+    margin-left: 920px;
+}
+.tit9{
+    margin-left:840px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+
+.head{
+    font-size: 50px;
+    color: #ff9900;
+    margin-top: 100px;
+}
+.body{
+    background-image: url("pt10.jpg");
+    background-size: 1365px;
+    background-attachment: fixed;
+}
+.username{
+    font-size: 18px;
+    color: blue;
+    margin-left: 950px;
+    margin-top: 25px;
+    position: absolute;
+}
+.prodiv{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: aqua;
+    margin-left: 880px;
+    margin-top: 7px;
+    border: solid;
+    border-color: black;
+
+}
+.proimg{
+    width:100%;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.div1{
+    width: 300px;
+    height: 540px;;
+    background-color: lightgray;
+    border-radius: 10px;
+    position: fixed;
+    margin-left: 810px;
+    margin-top: -190px;
+    z-index: 1000;
+    display: none;
+}
+.div2{
+    width: 100%;
+    height: 200px;
+    background-image: url("matt-lamers-528989-unsplash.jpg");
+    border-radius: 10px;
+    background-size: 300px 200px ;
+    opacity: 0.7;
+}
+
+.text1{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    color: white;
+    margin-top: 20px;
+}
+.div4{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 0px;
+    height: fit-content;
+    width: 300px;
+    background-color:#009999;
+    border-radius: 20px;
+}
+.t2{
+    font-size: 15px;
+    font-family: "Comic Sans MS";
+}
+.div5{
+    width: 100%;
+    height: 340px;
+    background-color: #009999;
+    overflow-y: scroll;
+}
+.div6{
+    display: inline-block;
+    vertical-align: top;
+    padding: 2px;
+    border-bottom-color: #660099;
+    border-bottom-style:  solid; 
+    border-radius: 5px;
+    width: 98%;
+    cursor: pointer;
+    height: 50px;
+}
+.div6:hover{
+    background-color: #ff9900;
+}
+.text2{
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+    color: #660099;
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 180px;
+
+}
+.text3{
+    font-family: "IcoFont";
+    font-size: 30px; 
+    margin-left: 10px;
+}.text4{
+    color: #660099;
+    margin-left: 15px;
+    margin-top: 10px;
+    position: absolute;
+}
+.text5{
+    color: black;
+}.div7{
+    padding: 3px;
+
+}
+.ani1{
+    color: #990099;
+}
+.im{
+    width: 100%;
+    height: 100%;
+}
+.tex{
+    color: white;
+    margin-top: -100px;
+    position: absolute;
+    font-size: 21px;
+}
+.te{
+    font-size:  15px;
+}
+.ani{
+    color: lightseagreen;
+}
+.tev{
+    margin-left: 150px;
+}
+.upda{
+    border: none;
+    outline: none;
+    width: 200px;
+    height: 32px;
+    border-radius: 20px;
+    background-color: #660099l;
+    color: #009999;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.upda:hover{
+    background-color: #990099;
+    color: white;
+    cursor: pointer;
+}
+.sp{
+    margin-left: 20px;
+    margin-top: -5px;
+    color: #333333;
+}
+.b1{
+    background-color: #0033ff;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: whitesmoke;
+    font-family: "cursive";
+    font-size: 20px;
+    outline: none;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    width: 220px;
+}
+.b1:hover{
+    background-color: activeborder;
+    color: #009999;
+}
+.b2{
+    background-color: red;
+    margin-top: -30px;
+}
+.b2:hover{
+    background-color: activeborder;
+    color: red;
+}
+.spw{
+    position: absolute;
+    margin-left: 780px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.spw:hover{
+    color: red;
+}
+.animation{
+    display: block;
+}
+.tp{
+    margin-left: 650px;
+}
+.title{
+    position: absolute;
+    color:#ff9900;
+    margin-left: 100px;
+}
+.to{
+    position: absolute;
+    color:#ff9900;
+    margin-left: 100px;
+    margin-top: 70px;
+
+}
+.pq{
+    color: blue;
+    margin-left: 220px;
+    margin-top: 160px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ul{
+    font-size: 18px;
+    color:  #ffccff;
+    margin-left: 350px;
+    font-weight: bold;
+}
+.span1{
+    color: white;
+}
+.tit12{
+    margin-left: 560px;
+}
+.tit15{
+    margin-left: 470px;
+    cursor: pointer;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+}
